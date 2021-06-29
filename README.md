@@ -34,6 +34,7 @@ Wait for sonetime for gradle sync and installation.
 Once the app is installed, it will show up in your device menu. Now you can run thr app,(even after disconnrcting) or canshare the app directy from mobile.
 LetsChat Application. Features.
 
+
 Login and Register via email and Password
 Login and Register using Google signIn.
 Beautiful splash screen and app icon.
