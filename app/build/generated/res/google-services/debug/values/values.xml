@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://letschat-89d38-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1007826052561</string>
+    <string name="google_api_key" translatable="false">AIzaSyDfRcL0ML6BVl90o2_e3MaP5r-ZaLcbnPk</string>
+    <string name="google_app_id" translatable="false">1:1007826052561:android:3dba78e407f290127dacf0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDfRcL0ML6BVl90o2_e3MaP5r-ZaLcbnPk</string>
+    <string name="google_storage_bucket" translatable="false">letschat-89d38.appspot.com</string>
+    <string name="project_id" translatable="false">letschat-89d38</string>
+</resources>
