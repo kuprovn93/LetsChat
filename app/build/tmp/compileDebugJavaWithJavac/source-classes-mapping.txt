@@ -1,0 +1,40 @@
+model/MessagesAdapter.java
+ model.MessagesAdapter
+ model.MessagesAdapter$ReceiverViewHolder
+ model.MessagesAdapter$SenderViewHolder
+com/example/letschat/ChatActivity.java
+ com.example.letschat.ChatActivity
+ com.example.letschat.ChatActivity$1
+ com.example.letschat.ChatActivity$2
+ com.example.letschat.ChatActivity$2$1
+ com.example.letschat.ChatActivity$2$1$1
+model/Messages.java
+ model.Messages
+com/example/letschat/Login.java
+ com.example.letschat.Login
+ com.example.letschat.Login$1
+ com.example.letschat.Login$1$1
+ com.example.letschat.Login$1$2
+ com.example.letschat.Login$2
+ com.example.letschat.Login$3
+ com.example.letschat.Login$4
+model/Users.java
+ model.Users
+com/example/letschat/BuildConfig.java
+ com.example.letschat.BuildConfig
+com/example/letschat/MainActivity.java
+ com.example.letschat.MainActivity
+ com.example.letschat.MainActivity$1
+com/example/letschat/Register.java
+ com.example.letschat.Register
+ com.example.letschat.Register$1
+ com.example.letschat.Register$1$1
+ com.example.letschat.Register$1$2
+ com.example.letschat.Register$2
+model/UserAdapter.java
+ model.UserAdapter
+ model.UserAdapter$1
+ model.UserAdapter$ViewHolder
+com/example/letschat/SplashScreen.java
+ com.example.letschat.SplashScreen
+ com.example.letschat.SplashScreen$1
